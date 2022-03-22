@@ -1,0 +1,173 @@
+{
+  "data": [
+    {
+      "ASSAULT_RIFLES": [
+        {
+          "id": 1,
+          "name": "STG-44",
+          "description": "",
+          "image": "",
+          "attachments": {
+            "muzzle": ["None"],
+            "barrel": ["None"],
+            "optic": ["None"],
+            "stock": ["None"],
+            "underbarrel": ["None"],
+            "magazine": ["None"],
+            "ammo_type": ["None"],
+            "rear_grip": ["None"],
+            "proficiency": ["None"],
+            "weapon_kit": ["None"]
+          }
+        },
+        {
+          "id": 2,
+          "name": "",
+          "description": "",
+          "image": "",
+          "attachments": {
+            "muzzle": [""],
+            "barrel": [""],
+            "optic": [""],
+            "stock": [""],
+            "underbarrel": [""],
+            "magazine": [""],
+            "ammo_type": [""],
+            "rear_grip": [""],
+            "proficiency": [""],
+            "weapon_kit": [""]
+          }
+        },
+        {
+          "id": 3,
+          "name": "",
+          "description": "",
+          "image": "",
+          "attachments": {
+            "muzzle": [""],
+            "barrel": [""],
+            "optic": [""],
+            "stock": [""],
+            "underbarrel": [""],
+            "magazine": [""],
+            "ammo_type": [""],
+            "rear_grip": [""],
+            "proficiency": [""],
+            "weapon_kit": [""]
+          }
+        },
+        {
+          "id": 4,
+          "name": "",
+          "description": "",
+          "image": "",
+          "attachments": {
+            "muzzle": [""],
+            "barrel": [""],
+            "optic": [""],
+            "stock": [""],
+            "underbarrel": [""],
+            "magazine": [""],
+            "ammo_type": [""],
+            "rear_grip": [""],
+            "proficiency": [""],
+            "weapon_kit": [""]
+          }
+        },
+        {
+          "id": 5,
+          "name": "",
+          "description": "",
+          "image": "",
+          "attachments": {
+            "muzzle": [""],
+            "barrel": [""],
+            "optic": [""],
+            "stock": [""],
+            "underbarrel": [""],
+            "magazine": [""],
+            "ammo_type": [""],
+            "rear_grip": [""],
+            "proficiency": [""],
+            "weapon_kit": [""]
+          }
+        },
+        {
+          "id": 6,
+          "name": "",
+          "description": "",
+          "image": "",
+          "attachments": {
+            "muzzle": [""],
+            "barrel": [""],
+            "optic": [""],
+            "stock": [""],
+            "underbarrel": [""],
+            "magazine": [""],
+            "ammo_type": [""],
+            "rear_grip": [""],
+            "proficiency": [""],
+            "weapon_kit": [""]
+          }
+        },
+        {
+          "id": 7,
+          "name": "",
+          "description": "",
+          "image": "",
+          "attachments": {
+            "muzzle": [""],
+            "barrel": [""],
+            "optic": [""],
+            "stock": [""],
+            "underbarrel": [""],
+            "magazine": [""],
+            "ammo_type": [""],
+            "rear_grip": [""],
+            "proficiency": [""],
+            "weapon_kit": [""]
+          }
+        },
+        {
+          "id": 8,
+          "name": "",
+          "description": "",
+          "image": "",
+          "attachments": {
+            "muzzle": [""],
+            "barrel": [""],
+            "optic": [""],
+            "stock": [""],
+            "underbarrel": [""],
+            "magazine": [""],
+            "ammo_type": [""],
+            "rear_grip": [""],
+            "proficiency": [""],
+            "weapon_kit": [""]
+          }
+        },
+        {
+          "id": 9,
+          "name": "",
+          "description": "",
+          "image": "",
+          "attachments": {
+            "muzzle": [""],
+            "barrel": [""],
+            "optic": [""],
+            "stock": [""],
+            "underbarrel": [""],
+            "magazine": [""],
+            "ammo_type": [""],
+            "rear_grip": [""],
+            "proficiency": [""],
+            "weapon_kit": [""]
+          }
+        }
+      ]
+    },
+    {
+      "SUBMACHINE_GUNS": []
+    }
+  ]
+}
