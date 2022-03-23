@@ -4,24 +4,129 @@
       "ASSAULT_RIFLES": [
         {
           "id": 1,
+          "unlock": "1",
           "name": "STG-44",
-          "description": "",
+          "description": "Versatile assault rifle adaptable to any situation",
           "image": "",
           "attachments": {
-            "muzzle": ["None"],
-            "barrel": ["None"],
-            "optic": ["None"],
-            "stock": ["None"],
-            "underbarrel": ["None"],
-            "magazine": ["None"],
-            "ammo_type": ["None"],
-            "rear_grip": ["None"],
-            "proficiency": ["None"],
-            "weapon_kit": ["None"]
+            "muzzle": [
+              "Scythe Compensator",
+              "MX Silencer",
+              "T1 Flash Hider",
+              "Recoil Booster",
+              "Mercury Silencer",
+              "Chord Muzzle Break",
+              "F8 Stabilzer",
+              "None"
+            ],
+            "barrel": [
+              "VDD 320MM 02B",
+              "VDD 760MM 05B",
+              "Krausnick 620MM Precision",
+              "Krausnick 220MM Rapid",
+              "None"
+            ],
+            "optic": [
+              "Nydar Model 47",
+              "G16 2.5x",
+              "Slate Reflector",
+              "MK 3 Sunfilter",
+              "ZC2 1.35x Lens",
+              "M19 4.0 Flip",
+              "K98 Scout 10x Telescopic",
+              "Monocular Reflector",
+              "1913 Variable 4-8x",
+              "Saturn 1.35x Lens",
+              "ZF4 3.5x Rifle Scope",
+              "Type 99 MOD. 2 Sunfilter",
+              "M38/Slate 2.5x Custom",
+              "Type 97 5x Telescopic",
+              "MK 3 MOD. 2 Sunfilter",
+              "MK. 12 Night Vision",
+              "MK. 3 Reflector",
+              "1229/Slate 3.25x Custom",
+              "SVT-40 PU Scope 3-6x",
+              "MK 18 Sunfilter",
+              "MK. 8 Reflector",
+              "Krausnick ISO1M",
+              "Krausnick ISO2M",
+              "None"
+            ],
+            "stock": [
+              "Krausnick S11S Folding",
+              "Konstanz Tactical",
+              "Removed Stock",
+              "VDD 27 Precision",
+              "VDD 34S Weighted",
+              "None"
+            ],
+            "underbarrel": [
+              "Carver Forgrip",
+              "M1941 Hand Stop",
+              "M3 Ready Grip",
+              "Bipod",
+              "GF-59 Flashlight",
+              "SMLE Pistol Grip",
+              "M1930 Strife Angled",
+              "Bayonet",
+              "Mark VI Skeletal",
+              "None"
+            ],
+            "magazine": [
+              "7.62 Gorenko 30 Round Mags",
+              ".30 Russian Short 20 Round Mags",
+              "8MM Kurz 45 Round Drums",
+              ".30 Russian Short 30 Round Mags",
+              "None"
+            ],
+            "ammo_type": [
+              "Subsonic",
+              "FMJ Rounds",
+              "Frangible",
+              "Armor Piercing",
+              "Incendiary",
+              "Lengthened",
+              "Hollow Point",
+              "None"
+            ],
+            "rear_grip": [
+              "Rubber",
+              "Taped",
+              "Leather",
+              "Fabric",
+              "Grooved",
+              "Hatched",
+              "Polymer",
+              "Pine Tar",
+              "Granular",
+              "Stippled",
+              "None"
+            ],
+            "proficiency": [
+              "Pressure",
+              "Acrobatic",
+              "Sleight of Hand",
+              "Nerves of Steel",
+              "Focus",
+              "Vital",
+              "None"
+            ],
+            "weapon_kit": [
+              "Fast Melee",
+              "Reach",
+              "Surplus",
+              "Deep Breath",
+              "Fully Loaded",
+              "Defender",
+              "Heavy Hitter",
+              "On-Hand",
+              "None"
+            ]
           }
         },
         {
           "id": 2,
+          "unlock": "",
           "name": "",
           "description": "",
           "image": "",
@@ -40,6 +145,7 @@
         },
         {
           "id": 3,
+          "unlock": "",
           "name": "",
           "description": "",
           "image": "",
@@ -58,6 +164,7 @@
         },
         {
           "id": 4,
+          "unlock": "",
           "name": "",
           "description": "",
           "image": "",
@@ -76,6 +183,7 @@
         },
         {
           "id": 5,
+          "unlock": "",
           "name": "",
           "description": "",
           "image": "",
@@ -94,6 +202,7 @@
         },
         {
           "id": 6,
+          "unlock": "",
           "name": "",
           "description": "",
           "image": "",
@@ -112,6 +221,7 @@
         },
         {
           "id": 7,
+          "unlock": "",
           "name": "",
           "description": "",
           "image": "",
@@ -130,6 +240,7 @@
         },
         {
           "id": 8,
+          "unlock": "",
           "name": "",
           "description": "",
           "image": "",
@@ -148,6 +259,7 @@
         },
         {
           "id": 9,
+          "unlock": "",
           "name": "",
           "description": "",
           "image": "",
