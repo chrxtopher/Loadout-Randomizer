@@ -5,7 +5,7 @@
         {
           "id": 1,
           "unlock": 1,
-          "name": "STG-44",
+          "name": "STG44",
           "description": "Versatile assault rifle adaptable to any situation",
           "image": "",
           "attachments": {
@@ -221,9 +221,9 @@
         },
         {
           "id": 3,
-          "unlock": "",
-          "name": "",
-          "description": "",
+          "unlock": 16,
+          "name": "Itra Burst",
+          "description": "Four-round burst rifle, accurate at medium to long range.",
           "image": "",
           "attachments": {
             "muzzle": [""],
@@ -240,9 +240,9 @@
         },
         {
           "id": 4,
-          "unlock": "",
-          "name": "",
-          "description": "",
+          "unlock": 25,
+          "name": "Bar",
+          "description": "High-caliber full-auto with accuracy for long distance engagements.",
           "image": "",
           "attachments": {
             "muzzle": [""],
@@ -259,9 +259,9 @@
         },
         {
           "id": 5,
-          "unlock": "",
-          "name": "",
-          "description": "",
+          "unlock": 33,
+          "name": "AS44",
+          "description": "Fast firing full-auto rifle ideal for close to mid-range engagements.",
           "image": "",
           "attachments": {
             "muzzle": [""],
@@ -278,9 +278,9 @@
         },
         {
           "id": 6,
-          "unlock": "",
-          "name": "",
-          "description": "",
+          "unlock": 41,
+          "name": "NZ-41",
+          "description": "Full-auto assault rifle with very accurate initial fire. Recoil becomes difficult to control with sustained fire.",
           "image": "",
           "attachments": {
             "muzzle": [""],
@@ -297,9 +297,9 @@
         },
         {
           "id": 7,
-          "unlock": "",
-          "name": "",
-          "description": "",
+          "unlock": 55,
+          "name": "Volkssturmgewehr",
+          "description": "Quick and mobile full-auto assault rifle. Ideal for pushing enemy positions at short to medium range.",
           "image": "",
           "attachments": {
             "muzzle": [""],
@@ -316,9 +316,9 @@
         },
         {
           "id": 8,
-          "unlock": "",
-          "name": "",
-          "description": "",
+          "unlock": "Tier 15 Battle Pass Season 1",
+          "name": "Cooper Carbine",
+          "description": "This short range AR is easy to control with a fast fire rate.",
           "image": "",
           "attachments": {
             "muzzle": [""],
@@ -335,9 +335,9 @@
         },
         {
           "id": 9,
-          "unlock": "",
-          "name": "",
-          "description": "",
+          "unlock": "Tier 15 Battle Pass Season 2",
+          "name": "KG M40",
+          "description": "Workhorse assault rifle, naturally steady and accurate.",
           "image": "",
           "attachments": {
             "muzzle": [""],
