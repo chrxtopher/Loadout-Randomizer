@@ -1,17 +1,20 @@
 import Head from "next/head";
-import Image from "next/image";
 import styles from "../styles/Home.module.css";
+import weapons from "../data/vanguard/primaries.json";
+import LoadoutCard from "../components/LoadoutCard";
 
 export default function Home() {
+  const testWeapon = weapons.data[0].ASSAULT_RIFLES[0];
+
   return (
-    <div className={styles.container}>
-      <Head>
-        <title>Loadout Randomizer</title>
-      </Head>
-      <body>
+    <body>
+      <div className={styles.container}>
+        <Head>
+          <title>Loadout Randomizer</title>
+        </Head>
         <h1>This is only the beginning.</h1>
         <p>This is my first Next.js project.</p>
-      </body>
-    </div>
+      </div>
+    </body>
   );
 }

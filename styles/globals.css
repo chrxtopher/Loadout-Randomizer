@@ -14,3 +14,37 @@ a {
 * {
   box-sizing: border-box;
 }
+
+/* Cards */
+
+.loadout-card {
+  border: 2px solid black;
+  border-radius: 6px;
+  margin: 3rem;
+}
+
+@media (min-width: 600px) {
+  .loadout-card-body {
+    display: flex;
+  }
+
+  .loadout-card-col-1 {
+    width: 50%;
+  }
+
+  .loadout-card-col-2 {
+    width: 50%;
+  }
+}
+
+.loadout-card-title {
+  text-align: center;
+  background-color: lightgrey;
+}
+
+/* Card Typography */
+
+.loadout-card h2 {
+  margin: 0;
+  padding: 0.5rem;
+}
