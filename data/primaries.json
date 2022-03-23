@@ -16,15 +16,13 @@
               "Recoil Booster",
               "Mercury Silencer",
               "Chord Muzzle Break",
-              "F8 Stabilzer",
-              "None"
+              "F8 Stabilzer"
             ],
             "barrel": [
               "VDD 320MM 02B",
               "VDD 760MM 05B",
               "Krausnick 620MM Precision",
-              "Krausnick 220MM Rapid",
-              "None"
+              "Krausnick 220MM Rapid"
             ],
             "optic": [
               "Nydar Model 47",
@@ -49,16 +47,14 @@
               "MK 18 Sunfilter",
               "MK. 8 Reflector",
               "Krausnick ISO1M",
-              "Krausnick ISO2M",
-              "None"
+              "Krausnick ISO2M"
             ],
             "stock": [
               "Krausnick S11S Folding",
               "Konstanz Tactical",
               "Removed Stock",
               "VDD 27 Precision",
-              "VDD 34S Weighted",
-              "None"
+              "VDD 34S Weighted"
             ],
             "underbarrel": [
               "Carver Forgrip",
@@ -69,15 +65,13 @@
               "SMLE Pistol Grip",
               "M1930 Strife Angled",
               "Bayonet",
-              "Mark VI Skeletal",
-              "None"
+              "Mark VI Skeletal"
             ],
             "magazine": [
               "7.62 Gorenko 30 Round Mags",
               ".30 Russian Short 20 Round Mags",
               "8MM Kurz 45 Round Drums",
-              ".30 Russian Short 30 Round Mags",
-              "None"
+              ".30 Russian Short 30 Round Mags"
             ],
             "ammo_type": [
               "Subsonic",
@@ -86,8 +80,7 @@
               "Armor Piercing",
               "Incendiary",
               "Lengthened",
-              "Hollow Point",
-              "None"
+              "Hollow Point"
             ],
             "rear_grip": [
               "Rubber",
@@ -99,8 +92,7 @@
               "Polymer",
               "Pine Tar",
               "Granular",
-              "Stippled",
-              "None"
+              "Stippled"
             ],
             "proficiency": [
               "Pressure",
@@ -108,8 +100,7 @@
               "Sleight of Hand",
               "Nerves of Steel",
               "Focus",
-              "Vital",
-              "None"
+              "Vital"
             ],
             "weapon_kit": [
               "Fast Melee",
@@ -119,16 +110,15 @@
               "Fully Loaded",
               "Defender",
               "Heavy Hitter",
-              "On-Hand",
-              "None"
+              "On-Hand"
             ]
           }
         },
         {
           "id": 2,
-          "unlock": "",
-          "name": "",
-          "description": "",
+          "unlock": "8",
+          "name": "Automaton",
+          "description": "High-accuracy and low-recoil allow this assault rifle precision at longer ranges.",
           "image": "",
           "attachments": {
             "muzzle": [""],
