@@ -222,20 +222,113 @@
         {
           "id": 3,
           "unlock": 16,
-          "name": "Itra Burst",
+          "name": "Itra-Burst",
           "description": "Four-round burst rifle, accurate at medium to long range.",
           "image": "",
           "attachments": {
-            "muzzle": [""],
-            "barrel": [""],
-            "optic": [""],
-            "stock": [""],
-            "underbarrel": [""],
-            "magazine": [""],
-            "ammo_type": [""],
-            "rear_grip": [""],
-            "proficiency": [""],
-            "weapon_kit": [""]
+            "muzzle": [
+              "G28 Compensator",
+              "MX Silencer",
+              "T1 Flash Hider",
+              "Recoil Booster",
+              "Mercury Silencer",
+              "Chord Muzzle Break",
+              "F8 Stabilzer"
+            ],
+            "barrel": [
+              "Botti 300MM CXII",
+              "Imerito 180MM 02BI",
+              "Perfetto 140MM Rapida",
+              "Botti 270MM CXIII-P"
+            ],
+            "optic": [
+              "Nydar Model 47",
+              "G16 2.5x",
+              "Slate Reflector",
+              "MK 3 Sunfilter",
+              "ZC2 1.35x Lens",
+              "M19 4.0 Flip",
+              "Type 99 10x Telescopic",
+              "Monocular Reflector",
+              "1913 Variable 4-8x",
+              "Saturn 1.35x Lens",
+              "ZF4 3.5x Rifle Scope",
+              "ZF41 7x Telescopic",
+              "M38/Slate 2.5x Custom",
+              "Type 97 5x Telescopic",
+              "MK 3 MOD. 2 Sunfilter",
+              "MK. 12 Night Vision",
+              "MK. 3 Reflector",
+              "1229/Slate 3.25x Custom",
+              "SVT-40 PU Scope 3-6x",
+              "MK 18 Sunfilter",
+              "MK. 8 Reflector",
+              "Botti VII",
+              "Perfetto ISLI"
+            ],
+            "stock": [
+              "Botti SSI Skeletal",
+              "Imerito Custom",
+              "Botti SMI Adjustable",
+              "Perfetto Padded Grip",
+              "Botti DII Grip"
+            ],
+            "underbarrel": [
+              "Carver Foregrip",
+              "M3 Ready Grip",
+              "Bipod",
+              "GF-59 Flashlight",
+              "SMLE Pistol Grip",
+              "M1930 Strife Angled",
+              "Bayonet",
+              "Mark VI Skeletal",
+              "M1941 Hand Stop"
+            ],
+            "magazine": [
+              "8MM Klauser 12 Round Fast Mags",
+              "6.5MM Sakura 20 Round Mags",
+              "8MM Klauser 32 Round Mags",
+              ".303 British 32 Round Mags"
+            ],
+            "ammo_type": [
+              "Subsonic",
+              "FMJ Rounds",
+              "Frangible",
+              "Armor Piercing",
+              "Incendiary",
+              "Lengthened",
+              "Hollow Point"
+            ],
+            "rear_grip": [
+              "Rubber",
+              "Taped",
+              "Leather",
+              "Fabric",
+              "Grooved",
+              "Hatched",
+              "Polymer",
+              "Pine Tar",
+              "Granular",
+              "Stippled"
+            ],
+            "proficiency": [
+              "Quickscope",
+              "Surveil",
+              "Focus",
+              "Sleight of Hand",
+              "Hardscope",
+              "Vital"
+            ],
+            "weapon_kit": [
+              "Fast Melee",
+              "Reach",
+              "Surplus",
+              "Deep Breath",
+              "Fully Loaded",
+              "Defender",
+              "Heavy Hitter",
+              "On-Hand"
+            ]
           }
         },
         {
