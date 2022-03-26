@@ -338,16 +338,108 @@
           "description": "High-caliber full-auto with accuracy for long distance engagements.",
           "image": "",
           "attachments": {
-            "muzzle": [""],
-            "barrel": [""],
-            "optic": [""],
-            "stock": [""],
-            "underbarrel": [""],
-            "magazine": [""],
-            "ammo_type": [""],
-            "rear_grip": [""],
-            "proficiency": [""],
-            "weapon_kit": [""]
+            "muzzle": [
+              "G28 Compensator",
+              "MX Silencer",
+              "Iscove Flash Hider",
+              "Recoil Booster",
+              "Mercury Silencer",
+              "Chord Muzzle Break",
+              "F8 Stabilzer"
+            ],
+            "barrel": [
+              "CGC 30 XL",
+              "CGC 27 2B",
+              "Cooper 21 Scythe",
+              "Chariot 18 Rapid"
+            ],
+            "optic": [
+              "Nydar Model 47",
+              "G16 2.5x",
+              "Slate Reflector",
+              "MK 3 Sufilter",
+              "ZC2 1.35x Lens",
+              "M19 4.0 Flip",
+              "Type 99 10x Telescopic",
+              "Monocular Reflector",
+              "1913 Variable 4-8x",
+              "Saturn 1.35x Lens",
+              "ZF4 3.5x Rifle Scope",
+              "m38 Mod. 2 7x Telescopic",
+              "M38/Slate 2.5x Custom",
+              "M38 5x Telescopic",
+              "MK 3 MOD. 2 Sunfilter",
+              "MK. 12 Night Vision",
+              "MK. 3 Reflector",
+              "1229/Slate 3.25x Custom",
+              "SVT-40 PU Scope 3-6x",
+              "MK 18 Sunfilter",
+              "MK. 8 Reflector",
+              "CGC Iron Sight 2B"
+            ],
+            "stock": [
+              "CGC Wire",
+              "Chariot WR",
+              "Removed Stock",
+              "Pistol Grip Custom",
+              "Cooper SP"
+            ],
+            "underbarrel": [
+              "Carver Foregrip",
+              "M3 Ready Grip",
+              "Bipod",
+              "GF-59 Flashlight",
+              "SMLE Pistol Grip",
+              "M1930 Strife Angled",
+              "Bayonet",
+              "Mark VI Skeletal",
+              "M1941 Hand Stop"
+            ],
+            "magazine": [
+              ".30-06 12 Round Fast Mags",
+              "8MM Klauser 20 Round Mags",
+              ".50 BMG 20 Round Mags",
+              ".50 BMG 30 Round Mags"
+            ],
+            "ammo_type": [
+              "Subsonic",
+              "FMJ Rounds",
+              "Frangible",
+              "Armor Piercing",
+              "Incendiary",
+              "Lengthened",
+              "Hollow Point"
+            ],
+            "rear_grip": [
+              "Rubber",
+              "Taped",
+              "Leather",
+              "Fabric",
+              "Grooved",
+              "Hatched",
+              "Polymer",
+              "Pine Tar",
+              "Granular",
+              "Stippled"
+            ],
+            "proficiency": [
+              "Sleight of Hand",
+              "Discard",
+              "Driller",
+              "Acrobatic",
+              "Hardscope",
+              "Focus"
+            ],
+            "weapon_kit": [
+              "Fast Melee",
+              "Reach",
+              "Surplus",
+              "Deep Breath",
+              "Fully Loaded",
+              "Defender",
+              "Heavy Hitter",
+              "On-Hand"
+            ]
           }
         },
         {
