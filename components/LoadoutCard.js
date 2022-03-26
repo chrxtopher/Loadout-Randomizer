@@ -8,20 +8,7 @@ export default function LoadoutCard({ weapon }) {
       </div>
       <div className="loadout-card-body">
         <div className="loadout-card-col-1">
-          <Image
-            src={`/images/primaries/${weapon.name}.png`}
-            width={800}
-            height={425}
-          />
-          <h3>{weapon.name}</h3>
-          <p>
-            Muzzle:{" "}
-            {
-              weapon.attachments.muzzle[
-                Math.floor(Math.random() * weapon.attachments.muzzle.length) + 1
-              ]
-            }
-          </p>
+          <h3>{`name`}</h3>
         </div>
         <div className="loadout-card-col-2">
           <p>Testing</p>
