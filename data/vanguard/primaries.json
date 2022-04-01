@@ -357,7 +357,7 @@
               "Nydar Model 47",
               "G16 2.5x",
               "Slate Reflector",
-              "MK 3 Sufilter",
+              "MK 3 Sunfilter",
               "ZC2 1.35x Lens",
               "M19 4.0 Flip",
               "Type 99 10x Telescopic",
@@ -578,7 +578,7 @@
               "Nydar Model 47",
               "G16 2.5x",
               "Slate Reflector",
-              "MK 3 Sufilter",
+              "MK 3 Sunfilter",
               "ZC2 1.35x Lens",
               "Type 99 10x Telescopic",
               "Monocular Reflector",
@@ -670,16 +670,107 @@
           "description": "Quick and mobile full-auto assault rifle. Ideal for pushing enemy positions at short to medium range.",
           "image": "",
           "attachments": {
-            "muzzle": [""],
-            "barrel": [""],
-            "optic": [""],
-            "stock": [""],
-            "underbarrel": [""],
-            "magazine": [""],
-            "ammo_type": [""],
-            "rear_grip": [""],
-            "proficiency": [""],
-            "weapon_kit": [""]
+            "muzzle": [
+              "G28 Compensator",
+              "MX Silencer",
+              "T1 Flash Hider",
+              "Recoil Booster",
+              "Mercury Silencer",
+              "Chord Muzzle Break",
+              "F8 Stabilizer"
+            ],
+            "barrel": [
+              "Krausnick 428MM 05V",
+              "VDD 287MM",
+              "Reisdorf 407MM Custom"
+            ],
+            "optic": [
+              "Nydar Model 47",
+              "G16 2.5x",
+              "Slate Reflector",
+              "MK 3 Sunfilter",
+              "ZC2 1.35x Lens",
+              "M19 4.0 Flip",
+              "Type 99 10x Telescopic",
+              "Monocular Reflector",
+              "1913 Variable 4-8x",
+              "Saturn 1.35x Lens",
+              "ZF4 3.5x Rifle Scope",
+              "ZF41 7x Telescopic",
+              "M38/Slate 2.5x Custom",
+              "Type 97 5x Telescopic",
+              "MK 3 MOD. 2 Sunfilter",
+              "MK. 12 Night Vision",
+              "MK. 3 Reflector",
+              "1229/Slate 3.25x Custom",
+              "SVT-40 PU Scope 3-6x",
+              "MK 18 Sunfilter",
+              "Krausnick ISO2V",
+              "Krausnick ISO3v"
+            ],
+            "stock": [
+              "SA Converted",
+              "Krausnick S10V Short",
+              "Krausnick S12V PS",
+              "Reisdorf 22V Adjustable"
+            ],
+            "underbarrel": [
+              "Carver Foregrip",
+              "M3 Ready Grip",
+              "Bipod",
+              "GF-59 Flashlight",
+              "SMLE Pistol Grip",
+              "M1930 Strife Angled",
+              "Bayonet",
+              "Mark VI Skeletal",
+              "M1941 Hand Stop"
+            ],
+            "magazine": [
+              "8MM Kurz 20 Round Fast Mags",
+              "7.62 Gorenko 30 Round Mags",
+              "8MM Kurz 60 Round Drums",
+              "7.62 Gorenko 20 Round Fast Mags",
+              ".30 Russian Short 45 Round Drums"
+            ],
+            "ammo_type": [
+              "Subsonic",
+              "FMJ Rounds",
+              "Frangible",
+              "Armor Piercing",
+              "Incendiary",
+              "Lengthened",
+              "Hollow Point"
+            ],
+            "rear_grip": [
+              "Rubber",
+              "Taped",
+              "Leather",
+              "Fabric",
+              "Grooved",
+              "Hatched",
+              "Polymer",
+              "Pine Tar",
+              "Granular",
+              "Stippled"
+            ],
+            "proficiency": [
+              "Steady",
+              "Pressure",
+              "Gung-Ho",
+              "Perfectionist",
+              "Sleight of Hand",
+              "Fleet"
+            ],
+            "weapon_kit": [
+              "Fast Melee",
+              "Reach",
+              "Surplus",
+              "Deep Breath",
+              "Fully Loaded",
+              "Defender",
+              "Heavy Hitter",
+              "On-Hand"
+            ]
           }
         },
         {
